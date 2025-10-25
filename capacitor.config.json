@@ -1,0 +1,21 @@
+{
+  "appId": "app.lovable.dd634c4064264172a70b3217af51b7f3",
+  "appName": "proconnect-naija",
+  "webDir": "dist",
+  "server": {
+    "url": "https://dd634c40-6426-4172-a70b-3217af51b7f3.lovableproject.com?forceHideBadge=true",
+    "cleartext": true
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 3000,
+      "launchAutoHide": true,
+      "backgroundColor": "#2d3748",
+      "androidSplashResourceName": "splash",
+      "androidScaleType": "CENTER_CROP",
+      "showSpinner": false,
+      "splashFullScreen": true,
+      "splashImmersive": true
+    }
+  }
+}
